@@ -1,3 +1,6 @@
 [submodule "brilliant-CV"]
 	path = brilliant-CV
 	url = https://github.com/mintyfrankie/brilliant-CV-Submodule
+[submodule "template"]
+	path = template
+	url = git@github.com:mintyfrankie/brilliant-CV-Submodule.git
